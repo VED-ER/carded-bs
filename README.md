@@ -2,7 +2,7 @@
 
 A fully responsive static site.
 
-Live Site URL: [google-calendar-clone](https://calendar-b88c3.web.app/)
+Live Site URL: [carded-bs](https://ved-er.github.io/carded-bs/)
 
 
 ## Built with
